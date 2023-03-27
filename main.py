@@ -24,7 +24,7 @@ m = dataset['mag']
 m_min = int(dataset['mag'].min())
 m_max = int(dataset['mag'].max())+1
 
-plt.scatter(x, y, s=0.1*m, c=m, vmin=m_min, vmax=m_max)
+plt.scatter(x, y, s=0.1*m, c=m, vmin=m_min, vmax=m_max, cmap="autumn")
 plt.colorbar(label="Earthquake Magnitude Scale")
 
 
