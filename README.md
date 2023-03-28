@@ -9,4 +9,9 @@
 | 7.0 to 7.9 |	Major earthquake. Serious damage. |	10-15 |
 | 8.0 or greater |	Great earthquake. Can totally destroy communities near the epicenter. |	One every year or two. |
 
-![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/v0.1.png)
+![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/all.png)
+![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/8_0.png)
+![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/7_7.9.png)
+![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/6.1_6.9.png)
+![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/5.5_6.0.png)
+![Earthquake Reports](https://raw.githubusercontent.com/Riciokzz/GeoQuake/main/images/2.5_5.4.png)
